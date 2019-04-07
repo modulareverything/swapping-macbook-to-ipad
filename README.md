@@ -6,10 +6,10 @@ I want to buy an iPad but can't justify the cost for the finite amount of use I 
 
 ...and whether I could use the iPad for this.
 
-[] 👾 Web Development
-[] 🌵 Design (UI mostly)
-[] 📊 Planning stuff / data / graphs / etc
-[] 🎧 DJing (with Traktor)
-[] 📚 Managing eBooks
-[] 💬 IRC
-[] 💽 Managing server (mostly done through the browser to be fair)
+- [] 👾 Web Development
+- [] 🌵 Design (UI mostly)
+- [] 📊 Planning stuff / data / graphs / etc
+- [] 🎧 DJing (with Traktor)
+- [] 📚 Managing eBooks
+- [] 💬 IRC
+- [] 💽 Managing server (mostly done through the browser to be fair)
