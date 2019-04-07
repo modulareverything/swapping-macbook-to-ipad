@@ -1,4 +1,4 @@
-# Swapping My MacBook Pro for an iPad 💻👉🏻💊
+# Swapping My MacBook Pro for an iPad
 
 I want to buy an iPad but can't justify the cost for the finite amount of use I want it for. I'm wondering if I can use it for more of what I use my MacBook for to make the cost worthwhile.
 
@@ -13,3 +13,13 @@ I want to buy an iPad but can't justify the cost for the finite amount of use I 
 - [ ] 📚 Managing eBooks
 - [ ] 💬 IRC
 - [ ] 💽 Managing server (mostly done through the browser to be fair)
+
+## 👾 Web Development
+
+I need to be able to...
+
+- [ ] Develop locally
+- [ ] Use an IDE
+- [ ] Use a keyboard
+- [ ] Git control
+- [ ] Deployment
