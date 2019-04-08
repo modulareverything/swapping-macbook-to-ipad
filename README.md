@@ -14,12 +14,8 @@ I want to buy an iPad but can't justify the cost for the finite amount of use I 
 - [ ] 💬 IRC
 - [ ] 💽 Managing server (mostly done through the browser to be fair)
 
-## 👾 Web Development
+### 👾 Web Development
 
-I need to be able to...
+After some research it looks like spinning up a local server on thr iPad is impossible. I saw this one coming but wanted to confirm it anyway. There are a few options out there, but one that has caught my eye is **Coder**.
 
-- [ ] Develop locally
-- [ ] Use an IDE
-- [ ] Use a keyboard
-- [ ] Git control
-- [ ] Deployment
+Coder is an open source development environment serving VS Code. You host it yourself using something like Digital Ocean. I assume it's something you open up in your browser, but it'd be nice to know if there is an app in development, or that an existing app supports it.
